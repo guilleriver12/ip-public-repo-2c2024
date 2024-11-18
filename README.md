@@ -15,7 +15,7 @@
         - Prettier - Code formatter.
         - Pylance.
         - Python.
-        - Python Debugger.
+        - Python Debugger. k
     
     Finalizada la instalación, ejecutá el programa. Deberías ver algo como lo siguiente (muestra dentro del mismo TP):
     ![imagen](https://i.ibb.co/3R4KDCt/reg1.png)
